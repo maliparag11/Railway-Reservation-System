@@ -17,8 +17,9 @@ To run this project properly on your system, you need to do the following steps:
 
 
 **Remember:**
- 1) **admin login:** username->cs315 password->cs15. (check .sql file for admin username and password)
+ 1) **admin login:** username->parag password->paragmali11. (check .sql file for admin username and password)
  2) Before booking ticket, schedule train on that date.
- 3) User can  not login without mail verification.
- 4) Check foreign keys and primary key before delating particular table's data.
+ 3) User can not login without mail verification.
+ 4) Check foreign keys and primary key before deleting particular table's data.
  5) Script folder does not have any use.All codes in this folder are already prsent required files.
+ 6) Admin can add station details and train details.
