@@ -1,7 +1,7 @@
 # Railway-Reservation-System
 # CS67 DBMS Project MMIT(Lohgaon)
 
-This project is an online railway ticket booking platform same as IRCTC. This project also consisted of a mailing feature (user get mail for booking/cancelling a ticket, email verification, tatkal booking). I have deleted all bookings and user details; you need to add them. 
+This project is an online railway ticket booking platform same as IRCTC.
 
 **Front-end:** HTML, JavaScript,PHP, Bootstrap3,CSS 
 **Backend:** MySQL 
